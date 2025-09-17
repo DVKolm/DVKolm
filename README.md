@@ -1,22 +1,5 @@
 Welcome to my GitHub profile! Here you can find my projects and stats.
 
----
-
-## 📊 Repository Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=DVKolm&show_icons=true&show=prs_merged,prs_merged_percentage&theme=radical)](https://github.com/DVKolm)
-
----
-
-## 📊 Top Languages by Bytes
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DVKolm&stats_format=bytes&layout=compact&langs_count=8&theme=radical)](https://github.com/DVKolm)
-
----
-
-## 📅 Yearly Activity
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=DVKolm&theme=radical)
-
----
-
 ## 🚀 Technologies & Tools
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
