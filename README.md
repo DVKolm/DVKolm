@@ -1,5 +1,3 @@
-# Hi, I'm Vladislav Kolomytssev 👋
-
 Welcome to my GitHub profile! Here you can find my projects and stats.
 
 ---
