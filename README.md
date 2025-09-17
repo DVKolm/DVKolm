@@ -1,11 +1,16 @@
-# Hi, I'm Vladislav Kolomytsev 👋
+# Hi, I'm Vladislav Kolomytssev 👋
 
 Welcome to my GitHub profile! Here you can find my projects and stats.
 
 ---
 
 ## 📊 Repository Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=DVKolm&show_icons=true&theme=radical)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=DVKolm&show_icons=true&show=prs_merged,prs_merged_percentage&theme=radical)](https://github.com/DVKolm)
+
+---
+
+## 📊 Top Languages by Bytes
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DVKolm&stats_format=bytes&layout=compact&langs_count=8&theme=radical)](https://github.com/DVKolm)
 
 ---
 
@@ -16,7 +21,7 @@ Welcome to my GitHub profile! Here you can find my projects and stats.
 
 ## 🚀 Technologies & Tools
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
