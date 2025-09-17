@@ -1,4 +1,4 @@
-Welcome to my GitHub profile! Here you can find my projects and stats.
+Welcome to my GitHub profile! Here you can find my projects.
 
 ## 🚀 Technologies & Tools
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
