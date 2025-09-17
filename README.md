@@ -1,16 +1,4 @@
-# Hi, I'm Vladislav Kolomytssev 👋
-
-Welcome to my GitHub profile! Here you can find my projects and stats.
-
----
-
-## 📈 GitHub Stats and Activity
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DVKolm)](https://git.io/streak-stats)
-
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DVKolm&theme=react-dark)](https://github.com/DVKolm)
-
----
+# Welcome to my GitHub profile! Here you can find my projects.
 
 ## 🛠 Technologies & Tools
 
