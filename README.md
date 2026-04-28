@@ -1,6 +1,6 @@
 # Vladislav Kolomytsev
 
-**Backend Developer** |
+**Backend Developer**
 
 Building production-grade event-driven systems and AI-powered pipelines.
 ---
@@ -8,7 +8,6 @@ Building production-grade event-driven systems and AI-powered pipelines.
 ## What I'm Working On
 
 - **[spring-ai-kafka-starter](https://github.com/DVKolm/spring-ai-kafka-starter)** — Spring Boot starter that wires Spring AI to Kafka with a fluent builder API. Retry, DLQ, observability, idempotency built in.
-- **SpringPulse** — AI-powered notification orchestration platform (Spring Boot + Kafka + Redis). Coming soon.
 
 ---
 
