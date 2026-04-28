@@ -1,10 +1,8 @@
 # Vladislav Kolomytsev
 
-**Backend Java Developer** | Spring Boot, Kafka, Docker, Kubernetes
+**Backend Developer** |
 
 Building production-grade event-driven systems and AI-powered pipelines.
-Based in Serbia, open to remote opportunities.
-
 ---
 
 ## What I'm Working On
